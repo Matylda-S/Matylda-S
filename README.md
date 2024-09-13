@@ -12,6 +12,6 @@ My name is Matylda. I am a student striving to develop my skills in programming 
 - **Currently Studying Big Data Analytics** 📊
   Politechnika Wrocławska, 2026
 
-  ## Contact :e-mail:
-  You can contact me at [email](mailto:matyldas2001@gmail.com).
+## Contact :e-mail:
+  You can contact me at matyldas2001@gmail.com .
 
