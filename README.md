@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Matylda-S/Matylda-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+My name is Matylda, and I am passionate about technology and data analysis. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **Bachelor's Degree in Automation and Robotics**  
+  Politechnika Wrocławska, 2024
+
+- **Currently Studying Big Data Analytics**  
+  Politechnika Wrocławska, 2026
+
