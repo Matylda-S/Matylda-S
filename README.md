@@ -9,7 +9,7 @@ My name is Matylda. I am a student striving to develop my skills in programming 
 - **Bachelor's Degree in Automation and Robotics** 🤖 
   Politechnika Wrocławska, 2024
 
-- **Currently Studying Big Data Analytics** 📊
+- **M.Sc. in Big Data Analytics** 📊
   Politechnika Wrocławska, 2025
 
 ## Contact :e-mail:
